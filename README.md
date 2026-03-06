@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Carle Francis L. Medina<br>🎓 College Student at Batangas State University<br>💼 Currently looking for an internship<br>🚀 Interested in: Software Engineering, Backend Development, and Data Science<br>🌐 Currently learning: Web Development & Competitive Programming<br><br>🔍 Passionate about problem-solving, optimizing systems, and building impactful software!<br>📈 Exploring the world of data and algorithms one step at a time.<br><br>Let's connect and build something amazing together! 💻✨
+👋 Hello there! I'm Carle Francis L. Medina<br>🎓 College Student at Batangas State University<br>💼 Currently looking for a job<br>🚀 Interested in: Software Engineering, Backend Development, and AI<br>🌐 Currently learning: AI, LLM, Automation, and Backend Engineer<br><br>🔍 Passionate about problem-solving, optimizing systems, and building impactful software!<br>📈 Exploring the world of data and algorithms one step at a time.<br><br>Let's connect and build something amazing together! 💻✨
 
 
 ## 🌐 Socials:
