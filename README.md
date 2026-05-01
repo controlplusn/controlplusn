@@ -1,1 +1,1 @@
-I like AI and backend in general
+I like AI and backend development
